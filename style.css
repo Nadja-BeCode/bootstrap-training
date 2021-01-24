@@ -1,0 +1,23 @@
+.purple {
+    display:grid;
+    background-color: rgb(203, 134, 209);
+    border-radius: 8px;
+    border-style:solid;
+  
+
+}
+
+h3 {
+    text-align: center;
+}
+
+.row {
+    border-style: solid;
+    box-pack: right;
+    justify-content: flex-end; 
+
+}
+
+.col {
+     
+}
